@@ -1,0 +1,32 @@
+[
+  {
+    "id": 935147,
+    "date": "2013-12-31",
+    "state": "California",
+    "city": "Oakland",
+    "address": "104th Ave and Walnut St",
+    "killed": 1,
+    "injured": 0,
+    "source": "http://www.eastbaytimes.com/2017/07/27/police-release-sketch-linked-to-unsolved-oakland-homicides/"
+  },
+  {
+    "id": 496703,
+    "date": "2013-12-31",
+    "state": "Ohio",
+    "city": "Barberton",
+    "address": "300 block of Seventh Street Northeast",
+    "killed": 3,
+    "injured": 1,
+    "source": "http://www.wtol.com/story/24627406/prosecutors-get-confession-from-suspect-in-barberton-triple-murder"
+  },
+  {
+    "id": 496684,
+    "date": "2013-12-31",
+    "state": "New York",
+    "city": "Brooklyn",
+    "address": "60 Glenmore Ave",
+    "killed": 0,
+    "injured": 6,
+    "source": "http://www.nydailynews.com/new-york/brooklyn/5-shot-1-pistol-whipped-brooklyn-party-article-1.1562264"
+  }
+]
