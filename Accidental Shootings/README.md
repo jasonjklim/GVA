@@ -1,6 +1,6 @@
 ### Using the script and things to consider:
 
-### Added python jypter notebook file for accidental shooting from query
+#### 8/26 Added python jypter notebook file for accidental shooting from query
 
 The [script](https://github.com/kschnippel/GVA/blob/master/Accidental%20Shootings/GVA%20accidental%20shooting%20scraper.ipynb) collects data from GVA database filtering for accidental shootings. The scraper gets data for accidental shootings for a given year from the GVA website. 
 The data currently is scraped on both accidental injuries and accidental killings, due to an accidental shooting. It updates the data by feeding these two URLS to beautiful soup: 
